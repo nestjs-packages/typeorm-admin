@@ -27,16 +27,16 @@
     "url": "git+https://github.com/nestjs-packages/admin.git"
   },
   "peerDependencies": {
-    "@nestjs/common": "^8.0.0",
-    "@nestjs/core": "^8.0.0",
+    "@nestjs/common": "^8.0.0 || ^11.0.0",
+    "@nestjs/core": "^8.0.0 || ^11.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "19.6.1",
     "@commitlint/config-angular": "19.6.0",
-    "@nestjs/common": "8.4.1",
-    "@nestjs/core": "8.4.1",
+    "@nestjs/common": "11.0.9",
+    "@nestjs/core": "11.0.9",
     "@types/express": "5.0.0",
     "@types/jest": "28.1.8",
     "@types/jsonwebtoken": "8.5.9",
